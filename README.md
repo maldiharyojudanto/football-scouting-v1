@@ -117,6 +117,8 @@ Sistem football-scouting-v1 hanya **mendeteksi player (beserta warna jersey) dan
 4. 9d3c239b_0.mp4 : cocok karena passing
 5. ec9f4e2b_1.mp4 : cocok karena passing dan umpan lambung
 
+## Output (contoh) : https://drive.google.com/drive/folders/1ZMHMoCTyfX0gP7io4abAmOvHOJi87Gj2
+
 
 Bandung, 7 Desember 2023
 
