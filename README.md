@@ -2,6 +2,8 @@
 
 ![0b1495d3_1 output](https://github.com/maldiharyojudanto/football-scouting-v1/assets/76139419/5a6b9df7-b38a-402b-9591-14b7da1443d9)
 
+![sistemdesainv1](https://github.com/maldiharyojudanto/football-scouting-v1/assets/76139419/465290e7-c9d9-4ee2-b56e-1e9e7f7ecae4)
+
 Sistem football-scouting-v1 hanya **mendeteksi player (beserta warna jersey) dan bola** menggunakan model **Yolov8**.
 
 ## Keterangan file .py :
