@@ -101,7 +101,7 @@ Sistem football-scouting-v1 hanya **mendeteksi player (beserta warna jersey) dan
     contoh file folder project ini di 'Desktop/TA', 
     maka perintah untuk ke folder tersebut adalah 'cd Desktop/TA'
 3. Buat folder 'input', 'output', dan 'weights' di root foolder
-4. Download video untuk dilakukan prediksi (link dataset di [bawah](https://github.com/maldiharyojudanto/football-scouting-v1?tab=readme-ov-file#petunjuk-pemakaian-))
+4. Download video untuk dilakukan prediksi (link dataset di [bawah](https://github.com/maldiharyojudanto/football-scouting-v1?tab=readme-ov-file#link-dataset-))
 5. Paste video ke folder 'input'
 6. Download weights di [sini](https://drive.google.com/drive/folders/14HF1AErJAaSnmk8jtjDufTEiVnECrVBZ?usp=sharing)
 7. Paste hasil download ke folder 'weights' yang sudah dibuat sebelumnya
